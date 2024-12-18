@@ -11,22 +11,22 @@ https://github.com/mage-ai/mage-ai
 
 
 
-# DB 
+## DB 
 
 
 https://github.com/pipefunc/pipefunc 
 
  pipe func - инструмент для создания простого функционального конвейера (DAG) на чистом Python для задач по анализу данных и  научных вычислений 🕸️🧪
  
-# Infra  
+## Infra  
 
 https://github.com/pyinfra-dev/pyinfra-docker/tree/main
 
-# ML / libs 
+## ML / libs 
 
 
 
-## tools & infra
+### tools & infra
 
 https://github.com/dstackai/dstack 
 
@@ -37,32 +37,32 @@ https://gitlab.com/arthurdeder/dsgw  Data Science GPU Workplace
 
 https://github.com/lutzroeder/netron vis 
 
-## transform
+### transform
 
 https://github.com/neuralmagic/sparseml 
 
 
-## learning
-
-https://github.com/lightly-ai/lightly
+### learning
 
 реймворк Python для самоконтролируемого обучения на изображениях 
-
-https://github.com/mosaicml/streaming 
+https://github.com/lightly-ai/lightly
 
 иблиотека потоковой передачи данных для эффективного обучения нейронных сетей 
-https://docs.mosaicml.com/projects/streaming/en/stable/
+https://github.com/mosaicml/streaming 
 
-https://github.com/Lightning-AI/torchmetrics 
+большой набор реализованных метрик для ML-систем
+https://github.com/Lightning-AI/torchmetrics  https://lightning.ai/docs/torchmetrics/stable/all-metrics.html 
 
-большой набор реализованных метрик для ML-систем https://lightning.ai/docs/torchmetrics/stable/all-metrics.html 
-
-## data gen 
+### data gen 
 
 https://github.com/sdv-dev/SDV
 
 🌟 SDV — библиотека Python для генерации синтетических данных на основе предоставленного набора данных
 
+
+## other 
+
+https://github.com/qodo-ai/qodo-cover
 
 
 
