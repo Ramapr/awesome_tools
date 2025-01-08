@@ -30,7 +30,11 @@ https://github.com/pyinfra-dev/pyinfra-docker/tree/main
 ### mlops 
 
 Zenml
-https://github.com/zenml-io/zenml
+https://github.com/zenml-io/zenml 
+
+polyaxon 
+mlops платформа 
+https://github.com/polyaxon/polyaxon
 
 
 ### tools & infra
