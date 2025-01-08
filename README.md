@@ -25,6 +25,7 @@ https://github.com/pipefunc/pipefunc
 
 https://github.com/pyinfra-dev/pyinfra-docker/tree/main
 
+
 ## ML / libs 
 
 ### mlops 
@@ -41,15 +42,23 @@ https://github.com/polyaxon/polyaxon
 
 https://github.com/dstackai/dstack 
 
-инструмент с открытым исходным кодом, предназначенный для упрощения работы с вычислительными нагрузками, требующими GPU! Основная цель проекта — сделать разработку,
+инструмент с открытым исходным кодом, предназначенный для упрощения работы с вычислительными нагрузками, требующими GPU! 
+Основная цель проекта — сделать разработку,
 
-https://gitlab.com/arthurdeder/dsgw  Data Science GPU Workplace 
+https://gitlab.com/arthurdeder/dsgw  
+Data Science GPU Workplace 
 
-
-https://github.com/lutzroeder/netron vis 
+model visualise 
+https://github.com/lutzroeder/netron
 
 ### transform
 
+квантование и сжатие 
+https://github.com/quic/aimet 
+https://quic.github.io/aimet-pages/releases/latest/user_guide/model_quantization.html#use-cases
+
+
+model optimisation 
 https://github.com/neuralmagic/sparseml 
 
 
