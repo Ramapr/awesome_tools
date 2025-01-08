@@ -13,6 +13,9 @@ https://github.com/mage-ai/mage-ai
 
 ## DB 
 
+легкий инструмент для работы с данными
+https://github.com/clidey/whodb
+
 
 https://github.com/pipefunc/pipefunc 
 
