@@ -27,6 +27,10 @@ https://github.com/pyinfra-dev/pyinfra-docker/tree/main
 
 ## ML / libs 
 
+### mlops 
+
+Zenml
+https://github.com/zenml-io/zenml
 
 
 ### tools & infra
