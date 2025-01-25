@@ -1,4 +1,6 @@
-# awesome_tools 
+# awesome of awesome 
+
+https://github.com/pditommaso/awesome-pipeline
 
 
 
@@ -9,6 +11,14 @@
 Mage-ai — отличная замена Airflow 
 https://github.com/mage-ai/mage-ai 
 
+Hamilton
+https://github.com/DAGWorks-Inc/hamilton
+
+pipe func - инструмент для создания простого функционального конвейера (DAG) на чистом Python для задач по анализу данных и  научных вычислений 🕸️🧪
+https://github.com/pipefunc/pipefunc
+
+https://github.com/insitro/redun
+
 
 
 ## DB 
@@ -16,14 +26,14 @@ https://github.com/mage-ai/mage-ai
 легкий инструмент для работы с данными
 https://github.com/clidey/whodb
 
-
-https://github.com/pipefunc/pipefunc 
-
- pipe func - инструмент для создания простого функционального конвейера (DAG) на чистом Python для задач по анализу данных и  научных вычислений 🕸️🧪
  
 ## Infra  
 
+pyinfra
 https://github.com/pyinfra-dev/pyinfra-docker/tree/main
+
+salt
+https://github.com/saltstack/salt
 
 
 ## ML / libs 
@@ -83,6 +93,21 @@ https://github.com/sdv-dev/SDV
 ## other 
 
 https://github.com/qodo-ai/qodo-cover
+
+
+
+## code refactoring 
+
+complexity
+https://github.com/rohaquinlop/complexipy
+
+https://github.com/benfred/py-spy
+
+
+
+
+
+
 
 
 
