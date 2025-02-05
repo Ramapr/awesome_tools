@@ -26,6 +26,8 @@ https://github.com/insitro/redun
 легкий инструмент для работы с данными
 https://github.com/clidey/whodb
 
+cli tool
+https://github.com/evangelosmeklis/peepdb
  
 ## Infra  
 
